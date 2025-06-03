@@ -25,7 +25,8 @@ A simple Flappy Bird game clone built with Python and Pygame. Control a bird by 
 
 ## 📷 Screenshots
 
-> *(Optional: Add gameplay screenshots or a short demo GIF here)*
+![image](https://github.com/user-attachments/assets/91ab18f7-65f7-4f81-a72c-4dbeceae609c)
+
 
 ---
 
